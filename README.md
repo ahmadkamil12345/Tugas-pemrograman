@@ -20,13 +20,13 @@ Untuk mengerjakannya saya memasukan syntax di bawah
 
 Dari proses diatas saya menggunakan output
 
-! [img] (Gambar/Lab2latihan1.png)
+![img](Gambar/Lab2latihan1.png)
 
 lab 2 latihan 2
 soal
 pada lab 2 latihan 2 saya diberi soal sebagai berikut
 
-![img] (Gambar/soal2.png)
+![img](Gambar/soal2.png)
 
 untuk mengerjakana saya memasukan syntax dibawah
     data = []
@@ -39,13 +39,13 @@ untuk mengerjakana saya memasukan syntax dibawah
 
 Dari proses diatas saya mendapatkan output
 
-! [img] (Gambar/Lab2latihan2.png)
+![img](Gambar/Lab2latihan2.png)
 
 lab 3 latihan 1
 soal
 pada lab 3 latihan 1 saya diberi soal
 
-![img] (Gambar/soal3.png)
+![img](Gambar/soal3.png)
 
 untuk mengerjakan soal saya memasukan syntex dibawah ini
     baris = 10
@@ -59,13 +59,13 @@ untuk mengerjakan soal saya memasukan syntex dibawah ini
 
 Dari proses diatas saya mendapatkan output
 
-! [img] (Gambar/lab3latihan1.png)
+![img](Gambar/lab3latihan1.png)
 
 lab 3 latihan 2
 soal
 pada lab 3 latihan 2 saya diberi soal
 
-![img] (Gambar/soal4.png)
+![img](Gambar/soal4.png)
 
 untuk mengerjakan soal diatas saya menggunakan syntax dibawah
 
@@ -82,7 +82,7 @@ untuk mengerjakan soal diatas saya menggunakan syntax dibawah
 
 Dari proses diatas saya mendapat output dibawah
 
-![img] (Gambar/Lab3latihan2.png)
+![img](Gambar/Lab3latihan2.png)
 
 Terima Kasih
 
