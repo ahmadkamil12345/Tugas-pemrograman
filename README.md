@@ -62,7 +62,7 @@ untuk mengerjakan soal saya memasukan syntex dibawah ini
 
 Dari proses diatas saya mendapatkan output
 
-![img](Gambar/lab3latihan1.png)
+![img](Gambar/Lab3latihan1.png)
 
 lab 3 latihan 2
 soal
