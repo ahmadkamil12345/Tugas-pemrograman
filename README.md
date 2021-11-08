@@ -5,6 +5,7 @@ pada lab 2 latihan 1 saya diberi soal sebagai berikut :
 ![img](Gambar/soal1.png)
 
 Untuk mengerjakannya saya memasukan syntax di bawah
+
     N=int(input("banyaknya data = "))
     if N>0:
         i=1
@@ -29,6 +30,7 @@ pada lab 2 latihan 2 saya diberi soal sebagai berikut
 ![img](Gambar/soal2.png)
 
 untuk mengerjakana saya memasukan syntax dibawah
+
     data = []
     for i in range (5):
         x =int(input("masukan bilangan : "))
@@ -48,6 +50,7 @@ pada lab 3 latihan 1 saya diberi soal
 ![img](Gambar/soal3.png)
 
 untuk mengerjakan soal saya memasukan syntex dibawah ini
+
     baris = 10
     kolom = baris
 
